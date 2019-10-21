@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Chay Jia Wei</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="my_desc">Foods I like: Ice cream
+    \n
+    \nHobbies : Chess , play computer games , and watching movie etc
+    \n
+    \nEducation:
+    \n\tSJK(C)Kampung Baru Mambau
+    \n\tSMK Bukit Kepayang
+    \n\t TAR University College
+        \n
+    \nWorking Experiences:
+    \n\tViss Motor parts Sdn.Bhd</string>
+</resources>
